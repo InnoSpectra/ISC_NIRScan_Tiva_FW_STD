@@ -1,5 +1,9 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.1.0.73b
+
+1. Fixed UART communication problem.
+
 # v2.1.0.72
 
 1. Add watchdog to recover from system hanged.
