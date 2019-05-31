@@ -1,5 +1,9 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.1.2
+
+1. Fixed BLE returned active config with a truncated index
+
 # v2.1.0.73b
 
 1. Fixed UART communication problem.
