@@ -1,5 +1,21 @@
 # ISC_NIRScan_Tiva_FW
 
+#2.3.2
+
+1. Based on v2.1.0.67, create specific glitch filter switch API and limited the glitch filter function with only Column type, exposure time at 0.635ms for user selectable.
+
+2. Send out error indication if UUID read failed.
+
+3. Add boot-modes selection right after power-up the device. Change the behavior for selecting boot-modes - slow blinking LEDs after user confirms action.
+
+4. Modify APIs for capable changing the version string of calib, scan cfg and refcalib data.
+
+5. Modify to support 8 digits serial number writing.
+
+6. Create battery regulation voltage setting API.
+
+7. Minor bugs fixed.
+
 # v2.1.2
 
 1. Fixed BLE returned active config with a truncated index
