@@ -1,6 +1,6 @@
 # ISC_NIRScan_Tiva_FW
 
-#2.3.2
+# v2.3.2
 
 1. Based on v2.1.0.67, create specific glitch filter switch API and limited the glitch filter function with only Column type, exposure time at 0.635ms for user selectable.
 
