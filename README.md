@@ -1,5 +1,21 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.4.0
+
+1. Support hardware version upto version "F".
+
+2. Added new error code for system errors. (Scan unstable detected for lamp/ADC only for version "F" and beyond)
+
+3. Added lock/unlock physical scan button control APIs.
+
+4. Added APIs for users to customize the Bluetooth LE advertising name. 
+
+5. Disable the physical device scan button while Bluetooth data is in the transaction.
+
+6. Support legacy reference data for upgrade/downgrade Tiva FW (Auto converting device reference data).
+
+7. Minor bugs fixed.   
+
 # v2.3.2
 
 1. Based on v2.1.0.67, create specific glitch filter switch API and limited the glitch filter function with only Column type, exposure time at 0.635ms for user selectable.
