@@ -1,5 +1,9 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.4.1 (MD5:fdc1c4bdb12e45e29ff38946d6ecec6f)
+
+1. Fixed BLE can not read battery capacity in battery power mode.
+
 # v2.4.0 (MD5:7aec6b3bac477ca421747d9f6d448483)
 
 1. Support hardware version upto version "F".
