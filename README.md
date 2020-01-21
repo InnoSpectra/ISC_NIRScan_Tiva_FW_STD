@@ -1,6 +1,6 @@
 # ISC_NIRScan_Tiva_FW
 
-# v2.4.0
+# v2.4.0 (MD5:7aec6b3bac477ca421747d9f6d448483)
 
 1. Support hardware version upto version "F".
 
