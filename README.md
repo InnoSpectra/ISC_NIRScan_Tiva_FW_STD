@@ -2,13 +2,11 @@
 
 # v2.4.4 (MD5:d838e5b0bf870ccc4f0d6c399abd0493)
 
-1. Fixed annoying scan error indication on BLE scan.
+1. Add API for getting BD Address.
 
-2. Add API for getting BD Address.
+2. Scan stability and quality fine tune.
 
-3. Scan stability and quality fine tune.
-
-4. Minor bugs fixed.
+3. Minor bugs fixed.
 
 # v2.4.1 (MD5:fdc1c4bdb12e45e29ff38946d6ecec6f)
 
