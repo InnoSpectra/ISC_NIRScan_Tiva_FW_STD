@@ -1,5 +1,15 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.4.4 (MD5:d838e5b0bf870ccc4f0d6c399abd0493)
+
+1. Fixed annoying scan error indication on BLE scan.
+
+2. Add API for getting BD Address.
+
+3. Scan stability and quality fine tune.
+
+4. Minor bugs fixed.
+
 # v2.4.1 (MD5:fdc1c4bdb12e45e29ff38946d6ecec6f)
 
 1. Fixed BLE can not read battery capacity in battery power mode.
@@ -12,7 +22,7 @@
 
 3. Added lock/unlock physical scan button control APIs.
 
-4. Added APIs for users to customize the Bluetooth LE advertising name. 
+4. Added APIs for users to customize the Bluetooth LE advertising name.
 
 5. Disable the physical device scan button while Bluetooth data is in the transaction.
 
