@@ -2,11 +2,9 @@
 
 # v2.4.6 (MD5:7799C23EE505545364B7176F333B9C00)
 
-1. Set lamp ADC unstable checking for only current drivers.
+1. Fix BLE setting active configuration by wrong index mapping.
 
-2. Fix BLE setting active configuration by wrong index mapping.
-
-3. Minor bugs fixed.
+2. Minor bugs fixed.
 
 # v2.4.4 (MD5:d838e5b0bf870ccc4f0d6c399abd0493)
 
