@@ -1,5 +1,9 @@
 # ISC_NIRScan_Tiva_FW
 
+# v2.4.7 (MD5:63174705FC2A065DB0D5B14033B9E1F6)
+
+1. Remove default button lock on BLE connection.
+
 # v2.4.6 (MD5:7799C23EE505545364B7176F333B9C00)
 
 1. Fix BLE setting active configuration by wrong index mapping.
