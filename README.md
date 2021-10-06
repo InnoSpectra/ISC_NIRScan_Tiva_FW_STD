@@ -1,5 +1,7 @@
 # ISC_NIRScan_Tiva_FW
 
+Please refer to the document - "APN - First Time to Update TIVA Firmware.pdf" if you are not familiar with the Tiva FW update.
+
 # v2.4.7 (MD5:63174705FC2A065DB0D5B14033B9E1F6)
 
 1. Remove default button lock on BLE connection.
