@@ -2,6 +2,14 @@
 
 Please refer to the document - "APN - First Time to Update TIVA Firmware.pdf" if you are not familiar with the Tiva FW update.
 
+# v2.4.10 (MD5:5bc66e18ebd0961001b1702df42e45ee)
+
+1. Improved M/B and D/B version detecting accuracy.  
+
+2. Add system parameters self-check at boot-up.
+
+3. Minor bugs fixed.
+
 # v2.4.7 (MD5:63174705FC2A065DB0D5B14033B9E1F6)
 
 1. Remove default button lock on BLE connection.
