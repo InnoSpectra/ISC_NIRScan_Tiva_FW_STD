@@ -2,6 +2,10 @@
 
 Please refer to the document - "APN - First Time to Update TIVA Firmware.pdf" if you are not familiar with the Tiva FW update.
 
+# v2.6.3 (MD5:D97B1DC407B81B8479CFEC8EFCE93DF1)
+
+1. Improve device performance.
+
 # v2.4.10 (MD5:5bc66e18ebd0961001b1702df42e45ee)
 
 1. Improved M/B and D/B version detecting accuracy.  
