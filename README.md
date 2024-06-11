@@ -5,8 +5,11 @@ Please refer to the document - "APN - First Time to Update TIVA Firmware.pdf" if
 # v2.6.3 (MD5:D97B1DC407B81B8479CFEC8EFCE93DF1)
 
 1. Add internal EEPROM backup/restore factory calibration parameters functionality.
+
 2. Add splashing LED at boot-up.
+
 3. Check lamp existence at boot-up.
+
 4. Minor bugs fixed.
 
 # v2.4.10 (MD5:5bc66e18ebd0961001b1702df42e45ee)
